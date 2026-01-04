@@ -1,2 +1,2 @@
 # my-new-project-files
-this is tset repo to use my web project
+this is my first repo to use my web project
